@@ -2,7 +2,7 @@
 
 A stylish and interactive **3D flip card** built using pure HTML, CSS, and JavaScript. Perfect for showcasing a user profile in a fun and dynamic way.
 
-![3D Card Demo](https://i.imgur.com/IoVf8bM.gif) <!-- You can replace this with your own GIF/demo screenshot -->
+![3D Card Demo](https://in.pinterest.com/pin/784259722629394968/) <!-- You can replace this with your own GIF/demo screenshot -->
 
 ---
 
